@@ -1,0 +1,11 @@
+C:\Users\joo\source\repos\Cirit path\obj\Debug\netcoreapp2.1\Cirit path.csprojAssemblyReference.cache
+C:\Users\joo\source\repos\Cirit path\obj\Debug\netcoreapp2.1\Cirit path.csproj.CoreCompileInputs.cache
+C:\Users\joo\source\repos\Cirit path\obj\Debug\netcoreapp2.1\Cirit path.AssemblyInfoInputs.cache
+C:\Users\joo\source\repos\Cirit path\obj\Debug\netcoreapp2.1\Cirit path.AssemblyInfo.cs
+C:\Users\joo\source\repos\Cirit path\bin\Debug\netcoreapp2.1\Cirit path.deps.json
+C:\Users\joo\source\repos\Cirit path\bin\Debug\netcoreapp2.1\Cirit path.runtimeconfig.json
+C:\Users\joo\source\repos\Cirit path\bin\Debug\netcoreapp2.1\Cirit path.runtimeconfig.dev.json
+C:\Users\joo\source\repos\Cirit path\bin\Debug\netcoreapp2.1\Cirit path.dll
+C:\Users\joo\source\repos\Cirit path\bin\Debug\netcoreapp2.1\Cirit path.pdb
+C:\Users\joo\source\repos\Cirit path\obj\Debug\netcoreapp2.1\Cirit path.dll
+C:\Users\joo\source\repos\Cirit path\obj\Debug\netcoreapp2.1\Cirit path.pdb
